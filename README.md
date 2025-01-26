@@ -19,10 +19,13 @@ It has 11 columns which are the following:
   
 There are no signs of redundancy or missing values from the dataset schema. The data comes in as an export of a job site database and has already been cleaned and formatted.  
 
-Examples of visualizations:
-**Distribution of Salaries**
+### Examples of visualizations:  
+  
+**Distribution of Salaries**  
 ![image](https://github.com/user-attachments/assets/f43c9e2f-a0b7-4452-9f82-ce36edb55141)  
 
 **Distribution of Data by Company Size** 
-![image](https://github.com/user-attachments/assets/635ac7d8-b2a6-4ef7-9d04-f7ad9206496a)
+  
+![image](https://github.com/user-attachments/assets/a0a8ea1c-0673-4ec3-885b-04b492c6dfa6)
+
 
