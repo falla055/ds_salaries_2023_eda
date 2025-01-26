@@ -17,4 +17,12 @@ It has 11 columns which are the following:
 *   company_location: Country of the employer's main office or contracting branch. Categorical data.
 *   company_size: The median number of people that worked for the company during the salary year expressed in terms of small (100 or less), medium (101 to 500) and large (501 to 1000+). Numerical data.  
   
-There are no signs of redundancy or missing values from the dataset schema. The data comes in as an export of a job site database and has already been cleaned and formatted.
+There are no signs of redundancy or missing values from the dataset schema. The data comes in as an export of a job site database and has already been cleaned and formatted.  
+
+Examples of visualizations:
+**Distribution of Salaries**
+![image](https://github.com/user-attachments/assets/f43c9e2f-a0b7-4452-9f82-ce36edb55141)  
+
+**Distribution of Data by Company Size** 
+![image](https://github.com/user-attachments/assets/635ac7d8-b2a6-4ef7-9d04-f7ad9206496a)
+
